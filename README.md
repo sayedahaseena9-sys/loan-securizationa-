@@ -4,7 +4,10 @@ Built a Securitisation Risk Assessment Dashboard using Microsoft Power BI, Excel
 my final dashbard:
 https://github.com/sayedahaseena9-sys/loan-securizationa-/blob/main/Auto%20Loan%20Securitization%20Dashboard.pbit
 
-my excel work:https://github.com/sayedahaseena9-sys/loan-securizationa-/blob/main/loans.xlsx
+my excel work:https://github.com/sayedahaseena9-sys/loan-securizationa-/blob/main/excel1.png
+https://github.com/sayedahaseena9-sys/loan-securizationa-/blob/main/excel2.png
+https://github.com/sayedahaseena9-sys/loan-securizationa-/blob/main/excel3.png
+https://github.com/sayedahaseena9-sys/loan-securizationa-/blob/main/excel4.png
 
 
 ## 1.Executive portfolio dashboard:https://github.com/sayedahaseena9-sys/loan-securizationa-/blob/main/Executive%20portfolio%20dashboard.png
